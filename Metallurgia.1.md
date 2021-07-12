@@ -94,8 +94,12 @@
 				- Pareti della forma/stampo
 - **Accrescimento**: Progressiva associazione di altri atomi con aumento della fase cristallina e diminuzione del liquido
 	- **Compatto**: I nuclei consumano la massa liquida creando un'interfaccia planare tra il solido e il liquido
-	- **Dendritico**: Accrescimento ad albe
+	- **Dendritico**: Accrescimento ad albero, con un nucleo e delle ramificazioni attaccate ad esso
+		- **Equiassico**: Grandezze uguali in tutte e 3 le dimensioni
+				- **Guscio**: Formazione a partire dalla periferia
+				- **Impastato**: Formazione casuale
+		- **Colonnare**: Grani con direzione pref
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODA4NDk4MCwtMjA5Nzk5ODIwNSwxOT
+eyJoaXN0b3J5IjpbMjEzODkxOTA0MCwtMjA5Nzk5ODIwNSwxOT
 Y5NzI1MjldfQ==
 -->
