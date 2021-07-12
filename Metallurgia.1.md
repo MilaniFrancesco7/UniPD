@@ -107,7 +107,8 @@
 	- **Maggiore**: Grande massa liquida con velocità di raffreddamento contenuta.
 - **Trattamento di omogeneizzazione**: Rimozione delle segregazioni minori tramite ricottura di omogeneizzazione.
 ## 13 - Diagramma di stato Fe-C
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA3MDczMTIsLTc0MDM4MjQ3MywtMj
-A5Nzk5ODIwNSwxOTY5NzI1MjldfQ==
+eyJoaXN0b3J5IjpbLTEzMzIwOTY5NjIsLTE1MDA3MDczMTIsLT
+c0MDM4MjQ3MywtMjA5Nzk5ODIwNSwxOTY5NzI1MjldfQ==
 -->
