@@ -1,4 +1,5 @@
 #  Metallurgia - Definizioni
+`Milani Francesco`
 ## 1 - Prova statica di trazione
 - **Punto di snervamento**: Punto di passaggio dal tratto elastico al plastico
 - **Strizione localizzata (Necking)**: Il materiale si contrae in un punto specifico 
@@ -117,6 +118,7 @@
 ## 13 - Diagramma di stato Fe-C
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMzMzcyMDAsLTE1MDA3MDczMTIsLT
-c0MDM4MjQ3MywtMjA5Nzk5ODIwNSwxOTY5NzI1MjldfQ==
+eyJoaXN0b3J5IjpbLTE4NDQzMjMwNiwtMTMzMzMzNzIwMCwtMT
+UwMDcwNzMxMiwtNzQwMzgyNDczLC0yMDk3OTk4MjA1LDE5Njk3
+MjUyOV19
 -->
