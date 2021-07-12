@@ -92,7 +92,8 @@
 				- Inclusioni di particelle esterne
 				- Particolari posizioni della superficie del liquido
 				- Pareti della forma/stampo
+- **Accrescimento**: Progressiva associazione di altri atomi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjc1NjQsLTIwOTc5OTgyMDUsMTk2OT
-cyNTI5XX0=
+eyJoaXN0b3J5IjpbLTE1MDQ0NzA5NzcsLTIwOTc5OTgyMDUsMT
+k2OTcyNTI5XX0=
 -->
