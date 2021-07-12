@@ -83,7 +83,8 @@
 ## 11 - Solidificazione dei materiali metallici
 - **Stato solido**: Ordine a breve e lungo raggio, ioni con posizioni ben definite nell spazio con ripetizione delle distanze
 - **Stato liquido**: Ordine a breve raggio, disordine a lungo raggio, ripetizione delle distanze solamente nelle prossimità dello ione di riferimento.
-- 
+- **Nucleazione**: Aggregazione di un n° non elevato di atomi per formare piccolissime porzioni o nuclei di cristallo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc5OTgyMDUsMTk2OTcyNTI5XX0=
+eyJoaXN0b3J5IjpbMzU4ODU5MzM3LC0yMDk3OTk4MjA1LDE5Nj
+k3MjUyOV19
 -->
