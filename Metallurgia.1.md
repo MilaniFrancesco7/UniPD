@@ -84,7 +84,6 @@
 - **Stato solido**: Ordine a breve e lungo raggio, ioni con posizioni ben definite nell spazio con ripetizione delle distanze
 - **Stato liquido**: Ordine a breve raggio, disordine a lungo raggio, ripetizione delle distanze solamente nelle prossimità dello ione di riferimento.
 - 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTcyNTI5XX0=
+eyJoaXN0b3J5IjpbLTIwOTc5OTgyMDUsMTk2OTcyNTI5XX0=
 -->
