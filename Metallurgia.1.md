@@ -103,9 +103,11 @@
 ## 12 - Diagrammi di stato
 - **Definizione**: Rappresentazione grafica che permette di stabilire le proprietà di una lega metallica in condizioni di equilibrio e di definire quali/quante siano le fasi, che composizione abbia ciascuna e quale sia la loro quantità.
 - **Segregazioni**: Disomogeneità di composizione chimica che si osserva in una lega metallica solidificata, quando la solidificazione non avviene con una successione di stati di equilibrio. Dipendono dalla scala, macroscopica o microscopica. 
-	- **Minore**: 
-- **Trattamento di omogeneizzazione**: Rimozione delle segregazioni minori tramite ricottura di omogeneizzazione
+	- **Minore**: Meccanismo di solidificazione che inibisce fenomeni diffusivi e determina una eterogeneità nella composizione del singolo grano.
+	- **Maggiore**: Grande massa liquida con velocità di raffreddamento contenuta.
+- **Trattamento di omogeneizzazione**: Rimozione delle segregazioni minori tramite ricottura di omogeneizzazione.
+## 13 - Diagramma di stato Fe-C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDI1NTE3MSwtNzQwMzgyNDczLC0yMD
-k3OTk4MjA1LDE5Njk3MjUyOV19
+eyJoaXN0b3J5IjpbLTE1MDA3MDczMTIsLTc0MDM4MjQ3MywtMj
+A5Nzk5ODIwNSwxOTY5NzI1MjldfQ==
 -->
