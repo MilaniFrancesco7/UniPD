@@ -148,6 +148,46 @@ La laminazione modifica la forma e l’orientazione dei grani (Allungati)</li>
 <ul>
 <li><strong>Stato solido</strong>: Ordine a breve e lungo raggio, ioni con posizioni ben definite nell spazio con ripetizione delle distanze</li>
 <li><strong>Stato liquido</strong>: Ordine a breve raggio, disordine a lungo raggio, ripetizione delle distanze solamente nelle prossimità dello ione di riferimento.</li>
-<li></li>
+<li><strong>Nucleazione</strong>: Aggregazione di un n° non elevato di atomi per formare piccolissime porzioni o nuclei di cristallo. Fase primordiale del solido.
+<ul>
+<li><strong>Nucleazione esogena</strong>: Aggregazione che avviene all’interno della massa fusa grazie all’immissione di un fattore esterno che ne favorisce l’aggregazione. Può essere omogenea od eterogenea.</li>
+<li><strong>Nucleazione endogena</strong>: Aggregazione che avviene grazie alla formazione, all’interno della massa fusa, di un fattore che ne favorisce l’aggregazione. Può essere omogenea od eterogenea.
+<ul>
+<li><strong>Omogenea</strong>: Spontanea aggregazione di atomi (con legami non direzionali) nella massa liquida per formare i nuclei. Avviene solamente in laboratorio e non industrialmente.</li>
+<li><strong>Eterogenea</strong>: Formmazione di nuclei in corrispondenza di:<br>
+- Frammenti della stessa sostanza cristallina non completamente fusi o volutamente aggiunti<br>
+- Inclusioni di particelle esterne<br>
+- Particolari posizioni della superficie del liquido<br>
+- Pareti della forma/stampo</li>
 </ul>
+</li>
+</ul>
+</li>
+<li><strong>Accrescimento</strong>: Progressiva associazione di altri atomi con aumento della fase cristallina e diminuzione del liquido
+<ul>
+<li><strong>Planare o Compatto</strong>: I nuclei consumano la massa liquida creando un’interfaccia planare tra il solido e il liquido</li>
+<li><strong>Dendritico</strong>: Accrescimento ad albero, con un nucleo e delle ramificazioni attaccate ad esso
+<ul>
+<li><strong>Equiassico</strong>: Direzione uguale in tutte e 3 le dimensioni<br>
+- <strong>Guscio</strong>: Formazione a partire dalla periferia<br>
+- <strong>Impastato</strong>: Formazione casuale</li>
+<li><strong>Colonnare</strong>: Grani con direzione preferenziale</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Frequenza di nucleazione</strong>: Numero di nuclei per unità di volume e di tempo in grado di accrescersi, ossia il numero di embrioni che passano a nuclei</li>
+</ul>
+<h2 id="diagrammi-di-stato">12 - Diagrammi di stato</h2>
+<ul>
+<li><strong>Definizione</strong>: Rappresentazione grafica che permette di stabilire le proprietà di una lega metallica in condizioni di equilibrio e di definire quali/quante siano le fasi, che composizione abbia ciascuna e quale sia la loro quantità.</li>
+<li><strong>Segregazioni</strong>: Disomogeneità di composizione chimica che si osserva in una lega metallica solidificata, quando la solidificazione non avviene con una successione di stati di equilibrio. Dipendono dalla scala, macroscopica o microscopica.
+<ul>
+<li><strong>Minore</strong>: Meccanismo di solidificazione che inibisce fenomeni diffusivi e determina una eterogeneità nella composizione del singolo grano.</li>
+<li><strong>Maggiore</strong>: Grande massa liquida con velocità di raffreddamento contenuta.</li>
+</ul>
+</li>
+<li><strong>Trattamento di omogeneizzazione</strong>: Rimozione delle segregazioni minori tramite ricottura di omogeneizzazione.</li>
+</ul>
+<h2 id="diagramma-di-stato-fe-c">13 - Diagramma di stato Fe-C</h2>
 
