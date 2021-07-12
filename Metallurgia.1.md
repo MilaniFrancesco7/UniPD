@@ -92,8 +92,10 @@
 				- Inclusioni di particelle esterne
 				- Particolari posizioni della superficie del liquido
 				- Pareti della forma/stampo
-- **Accrescimento**: Progressiva associazione di altri atomi
+- **Accrescimento**: Progressiva associazione di altri atomi con aumento della fase cristallina e diminuzione del liquido
+	- **Compatto**: I nuclei consumano la massa liquida creando un'interfaccia planare tra il solido e il liquido
+	- **Dendritico**: Accrescimento ad albe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ0NzA5NzcsLTIwOTc5OTgyMDUsMT
-k2OTcyNTI5XX0=
+eyJoaXN0b3J5IjpbLTUzODA4NDk4MCwtMjA5Nzk5ODIwNSwxOT
+Y5NzI1MjldfQ==
 -->
