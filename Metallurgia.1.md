@@ -100,7 +100,9 @@
 				- **Impastato**: Formazione casuale
 		- **Colonnare**: Grani con direzione preferenziale
 - **Frequenza di nucleazione**: Numero di nuclei per unità di volume e di tempo in grado di accrescersi, ossia il numero di embrioni che passano a nuclei
+## 12 - Diagrammi di stato
+- **Definizione**: Rappresentazione grafica che permette di stabilire le proprietà di una lega metallica in condizioni di equilibrio e di definire quali/quante siano le fasi, che composizione abbia ciascuna e quale sia la loro quantit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg3NzQyNDQsLTIwOTc5OTgyMDUsMT
-k2OTcyNTI5XX0=
+eyJoaXN0b3J5IjpbMTUzNDk5MjE1MywtMjA5Nzk5ODIwNSwxOT
+Y5NzI1MjldfQ==
 -->
