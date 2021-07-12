@@ -83,10 +83,10 @@
 ## 11 - Solidificazione dei materiali metallici
 - **Stato solido**: Ordine a breve e lungo raggio, ioni con posizioni ben definite nell spazio con ripetizione delle distanze
 - **Stato liquido**: Ordine a breve raggio, disordine a lungo raggio, ripetizione delle distanze solamente nelle prossimità dello ione di riferimento.
-- **Nucleazione**: Aggregazione di un n° non elevato di atomi per formare piccolissime porzioni o nuclei di cristallo. Fase primordiale del solido. Entrambi i tipi di nucleazione possono essere omogenee od eterogenee
-	- **Nucleazione esogena**: Aggregazione che avviene all'interno della massa fusa grazie all'immissione di un fattore esterno che ne favorisce l'aggregazione.
-	- **Nucleazione endogena**:
+- **Nucleazione**: Aggregazione di un n° non elevato di atomi per formare piccolissime porzioni o nuclei di cristallo. Fase primordiale del solido. 
+	- **Nucleazione esogena**: Aggregazione che avviene all'interno della massa fusa grazie all'immissione di un fattore esterno che ne favorisce l'aggregazione. Può essere omogenea od eterogenea.
+	- **Nucleazione endogena**: Aggregazione che avviene grazie alla formazione, all'interno della massa fusa, di un fattore che ne favorisce l'aggreg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3ODIxMjQ5LC0yMDk3OTk4MjA1LDE5Nj
-k3MjUyOV19
+eyJoaXN0b3J5IjpbMTQ0NzQ3NjkxNCwtMjA5Nzk5ODIwNSwxOT
+Y5NzI1MjldfQ==
 -->
