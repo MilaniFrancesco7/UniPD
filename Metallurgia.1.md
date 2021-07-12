@@ -109,6 +109,7 @@
 - **Frequenza di nucleazione**: Numero di nuclei per unità di volume e di tempo in grado di accrescersi, ossia il numero di embrioni che passano a nuclei
 ## 12 - Diagrammi di stato
 - **Definizione**: Rappresentazione grafica che permette di stabilire le proprietà di una lega metallica in condizioni di equilibrio e di definire quali/quante siano le fasi, che composizione abbia ciascuna e quale sia la loro quantità.
+
 - **Segregazioni**: Disomogeneità di composizione chimica che si osserva in una lega metallica solidificata, quando la solidificazione non avviene con una successione di stati di equilibrio. Dipendono dalla scala, macroscopica o microscopica. 
 	- **Minore**: Meccanismo di solidificazione che inibisce fenomeni diffusivi e determina una eterogeneità nella composizione del singolo grano.
 	- **Maggiore**: Grande massa liquida con velocità di raffreddamento contenuta.
@@ -116,6 +117,6 @@
 ## 13 - Diagramma di stato Fe-C
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzc0Nzc3NCwtMTUwMDcwNzMxMiwtNz
-QwMzgyNDczLC0yMDk3OTk4MjA1LDE5Njk3MjUyOV19
+eyJoaXN0b3J5IjpbLTEzMzMzMzcyMDAsLTE1MDA3MDczMTIsLT
+c0MDM4MjQ3MywtMjA5Nzk5ODIwNSwxOTY5NzI1MjldfQ==
 -->
