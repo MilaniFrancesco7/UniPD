@@ -1,7 +1,6 @@
 #  Metallurgia - Definizioni
 ## 1 - Prova statica di trazione
 - **Punto di snervamento**: Punto di passaggio dal tratto elastico al plastico
-
 - **Strizione localizzata (Necking)**: Il materiale si contrae in un punto specifico 
 - **Tenacità**: Energia necessaria per portare a rottura il provino
 - **Incrudimento ( Hardening)**: Rafforzamento del materiale
@@ -53,6 +52,7 @@
 ## 7 - Soluzioni solide
 - **Fase**: Parte omogenea di un sistema (materiale/lega), ovvero una composizione chimica costante e ben definita in tutti i punti, con reticolo cristallino ben definito, proprietà chimico-fisiche ben definite e con un'interfaccia di separazione che la differisce dal resto del sistema.
 - **Struttura**: Disposizione (orientamento), forma e dimensioni delle fasi
+
 - **Stato termodinamico**: Energia libera che il materiale possiede in una certa posizione.
 	- **Di equilibrio**: 
 		- **Stabile**: Condizione di minimo assoluto di energia libera 
@@ -71,6 +71,7 @@
 - **Processo di carbocementazione**: Diffusione di atomi di carbonio nel Fe-γ (Austenite)
 ## 9 - Rafforzamento dei materiali metallici
 - **Rafforzamento**: Innalzamento del limite elastico per "ritardare" il passaggio dal campo elastico a quello plastico, quindi ostacolando il movimento e lo scorrimento delle dislocazioni.
+
 - **Legge di Hall-Petch**: Estensione dei bordi grano che porta all'aumento della resistenza allo snervamento σ~s~		(σ~s~ = σ~i~ + k * d^-1/2^)
 - **Temperatura di equicoesione**: Punto di pareggio tra temperatura e resistenza alla frattura. Prima di essa si ha una frattura transcristallina, dopo si ha una frattura intercristallina. Nella zona del punto di pareggio si ha una frattura ibrida/mista.
 - **Affinazione del grano**: Aumento della lunghezza dei bordi grano
@@ -113,6 +114,6 @@
 ## 13 - Diagramma di stato Fe-C
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjUwOTgxNiwtMTUwMDcwNzMxMiwtNz
-QwMzgyNDczLC0yMDk3OTk4MjA1LDE5Njk3MjUyOV19
+eyJoaXN0b3J5IjpbMzkzMjIyOTEwLC0xNTAwNzA3MzEyLC03ND
+AzODI0NzMsLTIwOTc5OTgyMDUsMTk2OTcyNTI5XX0=
 -->
