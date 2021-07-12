@@ -1,6 +1,7 @@
 #  Metallurgia - Definizioni
 ## 1 - Prova statica di trazione
 - **Punto di snervamento**: Punto di passaggio dal tratto elastico al plastico
+
 - **Strizione localizzata (Necking)**: Il materiale si contrae in un punto specifico 
 - **Tenacità**: Energia necessaria per portare a rottura il provino
 - **Incrudimento ( Hardening)**: Rafforzamento del materiale
@@ -14,10 +15,12 @@
 	- **Nei materiali fragili**: Resistanza alla scalfitura (Concetto mineralogico)
 ## 3 - Prova di resilienza (o d'impatto)
 - **Resilienza**: Resistenza a flessione per urto (ovvero resistenza all'applicazione di una forza centrale alla provetta tramite un lavoro di rottura in corrispondenza del piano di simmetria longitudinale dell'intaglio)
+
 - **Temperatura di transizione**: Minima temperatura al di sopra della quale un acciaio mantiene un comportamento duttile (Valore di temperatura per il quale si osserva un 50% di superficie fragile). (Temperatura al di sotto della quale è pericoloso l'utilizzo del materiale)
 ## 4 - Metalli allo stato solido
 - **Fattore di impilaggio/impacchettamento**: Nei reticoli, rapporto tra il volume occupato dalla materia (atomo) e il volume della cella. (Presa in considerazione di ciò che è effettivamente occupato dall'atomo)
 - **Materiale allotropico**: Materiale che può esistere in diverse forme, differendo per proprietà chimiche, fisiche e struttura cristallina.
+
 - **Energia libera di Gibbs**: Funzione di stato della termodinamica utilizzata per rappresentare l'energia nelle trasformazioni a pressione e temperatura costante, determinando la spontaneità di una reazione. Ovvero, permette di capire se una reazione avviene spontaneamente oppure dev'essere indotta. (ΔG = ΔH - TΔS)
 	- **Entropia (S)**: Grandezza fisica che esprime la capacità del sistema di produrre lavoro.
 	- **Entalpia (H)**: Grandezza fisica che esprime la quantità di energia che un sistema termodinamico può scambiare con l'ambiente.
@@ -26,6 +29,7 @@
 - **Nodo**: Atomo all'interno della struttura di un reticolo cristallino
 - **Solidi policristallini**: Solidi costituiti da un gran numero di grani separati da bordi
 - **Bordi grano**: Bordi dei diversi cristalli che vengono creati nel processo di solidificazione. Attraversandoli si ha una variazione dell'orientazione dei cristalli (angolo di disorientamento), che è utile per ostacolare il moto delle dislocazioni.
+ 
 - **Difetti puntiformi**:
 	- **Vacanze**: Mancanza di uno ione metallico in un punto ben preciso del reticolo cristallino
 	- **Atomi auto-interstiziali**: Atomo della stessa natura che si posiziona in un sito interstiziale
@@ -109,6 +113,6 @@
 ## 13 - Diagramma di stato Fe-C
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIwOTY5NjIsLTE1MDA3MDczMTIsLT
-c0MDM4MjQ3MywtMjA5Nzk5ODIwNSwxOTY5NzI1MjldfQ==
+eyJoaXN0b3J5IjpbLTkxMjUwOTgxNiwtMTUwMDcwNzMxMiwtNz
+QwMzgyNDczLC0yMDk3OTk4MjA1LDE5Njk3MjUyOV19
 -->
