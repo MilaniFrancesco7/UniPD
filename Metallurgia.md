@@ -251,5 +251,9 @@ La laminazione modifica la forma e l’orientazione dei grani (Allungati)</li>
 <p><strong>Trattamento di omogeneizzazione</strong>: Rimozione delle segregazioni minori tramite ricottura di omogeneizzazione.</p>
 </li>
 </ul>
-<h2 id="diagramma-di-stato-fe-c">13 - Diagramma di stato Fe-C</h2>
+<h2 id="diagramma-di-stato-fe-c">13 - Diagramma di stato Fe-C</h2/li>
+</ul>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMzMyMzM4MDFdfQ==
+-->
