@@ -81,6 +81,7 @@
 - **Macrostruttura**: Cambiamenti sul design e sulla struttura del materiale
 - **Microstruttura**: Allungamento dei grani verso la direzione della deformazione, con cambiamenti chimici, fisici e meccanici.
 - **Isotropia**: Caratteristica dei materiali metallici che presentano un grano di forma tondeggiante.
+
 	- **Materiale isotropo/isotropico**: Le caratteristiche chimico, fisiche, meccaniche sono uguali in tutte e tre le dimensioni dello spazio.
 	Grani approssimatamente sferici e orientati casualmente (Equiassici)
 	- **Materiale anisotropo/anisotropico**: Le caratteristiche chimico, fisiche e meccaniche variano nelle tre dimensioni.
@@ -89,6 +90,7 @@
 - **Stato solido**: Ordine a breve e lungo raggio, ioni con posizioni ben definite nell spazio con ripetizione delle distanze
 - **Stato liquido**: Ordine a breve raggio, disordine a lungo raggio, ripetizione delle distanze solamente nelle prossimità dello ione di riferimento.
 - **Nucleazione**: Aggregazione di un n° non elevato di atomi per formare piccolissime porzioni o nuclei di cristallo. Fase primordiale del solido. 
+
 	- **Nucleazione esogena**: Aggregazione che avviene all'interno della massa fusa grazie all'immissione di un fattore esterno che ne favorisce l'aggregazione. Può essere omogenea od eterogenea.
 	- **Nucleazione endogena**: Aggregazione che avviene grazie alla formazione, all'interno della massa fusa, di un fattore che ne favorisce l'aggregazione. Può essere omogenea od eterogenea.
 		- **Omogenea**: Spontanea aggregazione di atomi (con legami non direzionali) nella massa liquida per formare i nuclei. Avviene solamente in laboratorio e non industrialmente.
@@ -114,6 +116,6 @@
 ## 13 - Diagramma di stato Fe-C
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzMjIyOTEwLC0xNTAwNzA3MzEyLC03ND
-AzODI0NzMsLTIwOTc5OTgyMDUsMTk2OTcyNTI5XX0=
+eyJoaXN0b3J5IjpbMTYyMzc0Nzc3NCwtMTUwMDcwNzMxMiwtNz
+QwMzgyNDczLC0yMDk3OTk4MjA1LDE5Njk3MjUyOV19
 -->
