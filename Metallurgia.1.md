@@ -87,8 +87,12 @@
 	- **Nucleazione esogena**: Aggregazione che avviene all'interno della massa fusa grazie all'immissione di un fattore esterno che ne favorisce l'aggregazione. Può essere omogenea od eterogenea.
 	- **Nucleazione endogena**: Aggregazione che avviene grazie alla formazione, all'interno della massa fusa, di un fattore che ne favorisce l'aggregazione. Può essere omogenea od eterogenea.
 		- **Omogenea**: Spontanea aggregazione di atomi (con legami non direzionali) nella massa liquida per formare i nuclei. Avviene solamente in laboratorio e non industrialmente.
-		- **Eterogenea**: Formmazione di nuclei in corrisponde
+		- **Eterogenea**: Formmazione di nuclei in corrispondenza di: 
+				- Frammenti della stessa sostanza cristallina non completamente fusi o volutamente aggiunti
+				- Inclusioni di particelle esterne
+				- Particolari posizioni della superficie del liquido
+				- Pareti della forma/stampo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxODk0OTg5LC0yMDk3OTk4MjA1LDE5Nj
-k3MjUyOV19
+eyJoaXN0b3J5IjpbMjEyMjc1NjQsLTIwOTc5OTgyMDUsMTk2OT
+cyNTI5XX0=
 -->
