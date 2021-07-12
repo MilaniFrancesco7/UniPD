@@ -93,15 +93,14 @@
 				- Particolari posizioni della superficie del liquido
 				- Pareti della forma/stampo
 - **Accrescimento**: Progressiva associazione di altri atomi con aumento della fase cristallina e diminuzione del liquido
-	- **Compatto**: I nuclei consumano la massa liquida creando un'interfaccia planare tra il solido e il liquido
+	- **Planare o Compatto**: I nuclei consumano la massa liquida creando un'interfaccia planare tra il solido e il liquido
 	- **Dendritico**: Accrescimento ad albero, con un nucleo e delle ramificazioni attaccate ad esso
 		- **Equiassico**: Direzione uguale in tutte e 3 le dimensioni
 				- **Guscio**: Formazione a partire dalla periferia
 				- **Impastato**: Formazione casuale
 		- **Colonnare**: Grani con direzione preferenziale
-- **Frequenza di nucleazione**: Numero di nuclei per unità di volume e di tempo in grado di accrescersi, ovvero:
-	- N° di embrioni che passano a nuclei
+- **Frequenza di nucleazione**: Numero di nuclei per unità di volume e di tempo in grado di accrescersi, ossia il numero di embrioni che passano a nuclei
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODQwMTYyNCwtMjA5Nzk5ODIwNSwxOT
-Y5NzI1MjldfQ==
+eyJoaXN0b3J5IjpbLTIwMTg3NzQyNDQsLTIwOTc5OTgyMDUsMT
+k2OTcyNTI5XX0=
 -->
